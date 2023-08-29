@@ -157,11 +157,7 @@ ul.top_agile_w3l_info_icons i {
 }
 .logo p {
     display: block;
-    color: #de0f17;
-    line-height: normal;
-    text-align: center;
-    letter-spacing: 5px;
-    font-size: medium;
+	
 }
 /*-- menu --*/
 .m_nav_ham{
